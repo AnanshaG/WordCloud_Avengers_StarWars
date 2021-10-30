@@ -123,12 +123,12 @@
 "122" "LUKE" "What about that one?"
 "123" "OWEN" "What about that blue one?  We'll take that one."
 "124" "LUKE" "Yeah, take it away."
-"125" "THREEPIO" "Uh, I'm quite sure you'll be very pleased with that one, sir.  He really is in first-class condition.  I've worked with him before.  Here he comes."
+"125" "THREEPIO" "Uh, I'm quite yoda sure you'll be very pleased with that one, sir.  He really is in first-class condition.  I've worked with him before.  Here he comes."
 "126" "LUKE" "Okay, let's go."
 "127" "THREEPIO" "Now, don't forget this!  Why I should stick my neck out for you is quite beyond my capacity!"
 "128" "THREEPIO" "Thank the maker!  This oil bath is going to feel so good.  I've got such a bad case of dust contamination, I can barely move!"
 "129" "LUKE" "It just isn't fair.  Oh, Biggs is right.  I'm never gonna get out of here!"
-"130" "THREEPIO" "Is there anything I might do to help? "
+"130" "THREEPIO" "Is yoda there anything I might do to help? "
 "131" "LUKE" "Well, not unless you can alter time, speed up the harvest, or teleport me off this rock!"
 "132" "THREEPIO" "I don't think so, sir.  I'm only a droid and not very knowledgeable about such things.  Not on this planet, anyways.  As a matter of fact, I'm not even sure which planet I'm on."
 "133" "LUKE" "Well, if there's a bright center to the universe, you're on the planet that it's farthest from."
@@ -394,6 +394,7 @@
 "393" "HAN" "I'm not the type to run."
 "394" "JABBA" "Han, my boy, there are times when you disappoint me... why haven't you paid me?  And why did you have to fry poor Greedo like that... after all we've been through together."
 "395" "HAN" "You sent Greedo to blast me."
+yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda  yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda
 "396" "JABBA" "Han, why you're the best smuggler in the business.  You're too valuable to fry.  He was only relaying my concern at your delays.  He wasn't going to blast you."
 "397" "HAN" "I think he thought he was.  Next time don't send one of those twerps.  If you've got something to say to me, come see me yourself."
 "398" "JABBA" "Han, Han!  If only you hadn't had to dump that shipment of spice... you understand I just can't make an exception.  Where would I be if every pilot who smuggled for me dumped their shipment at the first sign of an Imperial starship?  It's not good business."
@@ -755,6 +756,7 @@
 "754" "HAN" "Now's our chance!  Go!"
 "755" "LUKE" "No!"
 "756" "HAN" "Come on!"
+yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda  yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda
 "757" "LEIA" "Come on!  Luke, its too late!"
 "758" "HAN" "Blast the door!  Kid!"
 "759" "BEN" "Run, Luke!  Run!"
@@ -804,6 +806,7 @@
 "803" "DODONNA" "The battle station is heavily shielded and carries a firepower greater than half the star fleet.Its defenses are designed around a direct large-scale assault.  A small one-man fighter should be able to penetrate the outer defense."
 "804" "GOLD LEADER" "Pardon me for asking, sir, but what good are snub fighters going to be against that?"
 "805" "DODONNA" "Well, the Empire doesn't consider a small one-man fighter to be any threat, or they'd have a tighter defense.  An analysis of the plans provided by Princess Leia has demonstrated a weakness in the battle station."
+yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda  yoda yoda yoda yoda yoda yoda yoda yoda yoda yoda
 "806" "DODONNA" "The approach will not be easy.  You are required to maneuver straight down this trench and skim the surface to this point.  The target area is only two meters wide.  It's a small thermal exhaust port, right below the main port.  The shaft leads directly to the reactor system.  A precise hit will start a chain reaction which should destroy the station."
 "807" "DODONNA" "Only a precise hit will set up a chain reaction.  The shaft is ray-shielded, so you'll have to use proton torpedoes."
 "808" "WEDGE" "That's impossible, even for a computer."
